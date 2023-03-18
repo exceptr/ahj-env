@@ -1,3 +1,5 @@
+# Ссылка на [GitHub Pages](https://exceptr.github.io/ahj-env/)
+
 # Домашнее задание к занятию "1. Рабочее окружение"
 
 ![CI](https://github.com/exceptr/ahj-env/actions/workflows/web.yml/badge.svg)
