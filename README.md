@@ -1,5 +1,5 @@
 # Домашнее задание к занятию "1. Рабочее окружение"
-
+![CI](https://github.com/exceptr/ahj-env/actions/workflows/web.yml/badge.svg)
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
 ### Continuous Deployment
@@ -13,17 +13,3 @@
 Не забудьте поставить бейджик со статусом в `README.md`.
 
 **В качестве результата пришлите проверяющему ссылку на ваш GitHub-проект.**
-
-### Инструкция:
-1. Скачать репозиторий https://github.com/netology-code/ahj-code/tree/master/env
-2. Создать новый репозиторий на github
-3. Скопировать в новый репозиторий папку `env`
-4. Настроить новый репозиторий. Указать в нём использование GitHub Action для публикации приложения, вместо публикации из ветки (gh-pages)
-5. В файле `README.md` в строке:
-```md
-![CI](https://github.com/exceptr/ahj-env/actions/workflows/web.yml/badge.svg)
-```
-Заменить `<OWNER>` на ваш ник на github;
-
-Заменить `<REPOSITORY>` на название вашего репозитория;
-https://github.com/exceptr/ahj-env/actions/workflows/web.yml/badge.svg
